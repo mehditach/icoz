@@ -1,6 +1,7 @@
-test == Mehdi
+this is WEBsite for company ICOZ
 
-test = youssef
-noureddine=test
-noureddine=test2
+https://mehditach.github.io/icoz/
+
+
+
 npx tailwindcss -i ./src/style.css -o ./public/style.css --watch
